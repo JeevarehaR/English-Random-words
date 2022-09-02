@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    margin: 30px;
+    color: rgb(39, 23, 55);
+}
+
+.container{
+    background-color: rgba(56, 9, 57, 0.279);
+    padding: 5%;
+    margin: 10%;
+    display: flex;
+    justify-content: center;
+    border: 2px solid transparent;
+    border-radius: 10px;
+}
+
+body{
+    background: linear-gradient(90deg, rgb(158, 67, 67)0%, rgb(95, 203, 215)100%);
+}
+
+span{
+    align-content: center;
+    text-align: center;
+    color: rgb(234, 216, 231);
+    font-size: x-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;    
+}
